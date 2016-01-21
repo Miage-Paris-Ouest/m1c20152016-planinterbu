@@ -18,11 +18,14 @@ La recherche d’une ressource au sein d’une bibliothèque peut s’avérer fa
 </br>
 <h6>Priorisation des fonctionnalités et évaluation de la faisabilité dans le temps </h6>
 <p>Nous utiliserons la méthode MoSCoW pour mesurer la priorité des spécifications, dont l’acronyme signifie : 
-<il>	M : must have (fonctionnalité vitale).</il>
--	S : should have (fonctionnalité essentielle).
--	C : could have (fonctionnalité de confort).
--	W : won't have this time but would like in the future (fonctionnalité de luxe)
-
+<ul type="circle">
+<li> M : must have (fonctionnalité vitale).</li>
+<li> S : should have (fonctionnalité essentielle).</li>
+<li> C : could have (fonctionnalité de confort).</li>
+<li> W : won't have this time but would like in the future (fonctionnalité de luxe)</li>
+</ul>
+</p>
+<p>
 La faisabilité dans le temps est mesurée en terme de temps nécessaire pour la réalisation (+ : signifie nécessite peu de temps, ++++ : nécessite beaucoup de temps)
 </p>
 <img src ="https://github.com/LyndaKHEMMAR/RepositoryGit_m1c20152016-planinterBU/blob/master/moscow.PNG">
