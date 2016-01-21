@@ -18,7 +18,7 @@ La recherche d’une ressource au sein d’une bibliothèque peut s’avérer fa
 </br>
 <h6>Priorisation des fonctionnalités et évaluation de la faisabilité dans le temps </h6>
 <p>Nous utiliserons la méthode MoSCoW pour mesurer la priorité des spécifications, dont l’acronyme signifie : 
--	M : must have (fonctionnalité vitale).
+<il>	M : must have (fonctionnalité vitale).</il>
 -	S : should have (fonctionnalité essentielle).
 -	C : could have (fonctionnalité de confort).
 -	W : won't have this time but would like in the future (fonctionnalité de luxe)
