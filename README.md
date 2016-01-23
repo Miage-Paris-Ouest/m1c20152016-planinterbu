@@ -1,5 +1,5 @@
 
-<center><h2><font color="red">Document de conception du projet II</font> </h2></center>
+<font color="red">Document de conception du projet II</font>
 <h4>Plan interactif de la BU (application WEB)</h4>
 
 <h5>REALISE PAR : Lynda KHEMMAR, Macylia LALMAS, et Abdourahmane GAYE</h5>
