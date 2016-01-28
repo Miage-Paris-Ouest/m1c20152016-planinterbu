@@ -1,1 +1,9 @@
+# configuration file for Travis-CI
+# https://travis-ci.org
+
 language: java
+
+sudo: false
+
+jdk:
+  - oraclejdk8
