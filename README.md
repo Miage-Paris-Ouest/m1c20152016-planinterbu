@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/Miage-Paris-Ouest/m1c20152016-planinterbu.svg?branch=master)](https://travis-ci.org/Miage-Paris-Ouest/m1c20152016-planinterbu)
+
 <h2>Document de conception du projet II</h2>
 <h4>Plan interactif de la BU (application WEB)</h4>
 
