@@ -1,5 +1,6 @@
 
 [![Build Status](https://travis-ci.org/Miage-Paris-Ouest/m1c20152016-planinterbu.svg?branch=master)](https://travis-ci.org/Miage-Paris-Ouest/m1c20152016-planinterbu)
+ <a href='https://coveralls.io/github/Miage-Paris-Ouest/m1c20152016-planinterbu?branch=master'><img src='https://coveralls.io/repos/github/Miage-Paris-Ouest/m1c20152016-planinterbu/badge.svg?branch=master' alt='Coverage Status' /></a>
 
 <h2>Document de conception du projet II</h2>
 <h4>Plan interactif de la BU (application WEB)</h4>
