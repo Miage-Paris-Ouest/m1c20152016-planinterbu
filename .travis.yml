@@ -14,9 +14,10 @@ cache:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
 
-# Gradlew ; les autorisations 
+# Gradlew
 before_install:
- - chmod +x ./gradlew
- 
+  - pip install --user codecov
 script:
-  - ./gradlew clean build
+  - ./gradlew check jacocoTestReport coveralls
+  
+after_success: - codecov
