@@ -1,5 +1,5 @@
 <h2>Le fichier des données</h2>
-<br/>
+
 <h4>Nombre de colonnes du fichier</h4>
 Le fichier devra comporter 5 colonnes dans cet ordre : 
     <ul>
@@ -9,8 +9,7 @@ Le fichier devra comporter 5 colonnes dans cet ordre :
       <li> Sous Discipline </li>
       <li> Racine de cote </li>
     </ul>
-    
-    <h4>Format des colonnes</h4>
+<h4>Format des colonnes</h4>
     <ul>
       <li> Salle: Chaine de caractères</li>
       <li> Etagère: Il faut donner le numéro d'étagère. Il est possible  d'en fournir plusieurs mais à condition de les séparer par des virgules.</li>
