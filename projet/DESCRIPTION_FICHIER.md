@@ -11,7 +11,7 @@ Le fichier devra comporter 5 colonnes dans cet ordre :
     </ul>
 <h4>Format des colonnes</h4>
     <ul>
-      <li> Salle: Chaine de caractères</li>
+      <li> Salle Chaine de caractères</li>
       <li> Etagère: Il faut donner le numéro d'étagère. Il est possible  d'en fournir plusieurs mais à condition de les séparer par des virgules.</li>
       <li> Discipline: Chaine de caractères </li>
       <li> Sous Discipline: Chaine de caractères </li>
