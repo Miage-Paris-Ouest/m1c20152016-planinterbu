@@ -10,13 +10,13 @@ Le fichier devra comporter 5 colonnes dans cet ordre :
       <li> Racine de cote </li>
     </ul>
 <h4>Format des colonnes</h4>
-    <ul>
+    <ol>
       <li> Salle Chaine de caractères</li>
       <li> Etagère: Il faut donner le numéro d'étagère. Il est possible  d'en fournir plusieurs mais à condition de les séparer</li>
       <li> Discipline: Chaine de caractères </li>
       <li> Sous Discipline: Chaine de caractères </li>
       <li> Racine de cote: Ce sont des numéros. Il est possible de spécifier des plages de valeurs mais seuls trois formats sont</li>
-    </ul>
+    </ol>
 acceptés. Par exemple:
             - 1 sauf 10 à 17 
             - 1 sauf 11,13,15
