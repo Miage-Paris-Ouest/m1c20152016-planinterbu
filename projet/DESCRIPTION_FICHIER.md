@@ -9,6 +9,7 @@ Le fichier devra comporter 5 colonnes dans cet ordre :
       <li> Sous Discipline </li>
       <li> Racine de cote </li>
     </ul>
+    </br>
 <h4>Format des colonnes</h4>
      Salle Chaine de caractères
        Etagère: Il faut donner le numéro d'étagère. Il est possible  d'en fournir plusieurs mais à condition de les séparer
