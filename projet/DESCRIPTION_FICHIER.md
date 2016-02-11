@@ -18,9 +18,9 @@ Le fichier devra comporter 5 colonnes dans cet ordre :
     <li>   Discipline: Chaine de caractères</li>
     <li>   Sous Discipline: Chaine de caractères </li>
     <li>   Racine de cote:</li> Ce sont des numéros. Il est possible de spécifier des plages de valeurs mais seuls trois formats sont
-    acceptés. Par exemple:
-            - 1 sauf 10 à 17 
-            - 1 sauf 11,13,15
-            - 1 à 20
+    acceptés. Par exemple: <br/>
+            - 1 sauf 10 à 17 <br/>
+            - 1 sauf 11,13,15 <br/>
+            - 1 à 20 <br/>
  </ol>  
 </p>
