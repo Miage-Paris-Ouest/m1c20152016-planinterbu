@@ -21,6 +21,6 @@ Le fichier devra comporter 5 colonnes dans cet ordre :
     acceptés. Par exemple: <br/>
             - 1 sauf 10 à 17 <br/>
             - 1 sauf 11,13,15 <br/>
-            - 1 à 20 <br/>
+            - 1 à 20 <br/> Donc les mots clef qui sont acceptés sont <b>"sauf"</b> et <b>"à"</b>
  </ol>  
 </p>
