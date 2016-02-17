@@ -15,6 +15,7 @@
   
 <h4> Conception </h4>
 
+<img src="https://github.com/Miage-Paris-Ouest/m1c20152016-planinterbu/blob/master/projet/mcd.jpg"/>
   
     
 <h4> Dépendances </h4>
