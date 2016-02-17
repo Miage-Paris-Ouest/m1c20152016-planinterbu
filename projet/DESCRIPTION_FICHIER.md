@@ -1,5 +1,7 @@
 <h2>Le fichier des données</h2>
 
+<h4>Format du fichier</h4>
+Le fichier de données doit avoir l'extension XLS !
 <h4>Nombre de colonnes du fichier</h4>
 Le fichier devra comporter 5 colonnes dans cet ordre : 
     <ul>
