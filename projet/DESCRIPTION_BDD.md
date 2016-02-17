@@ -14,7 +14,7 @@
   </p>  
   
     
-    <h4> Dépendances </h4>
+<h4> Dépendances </h4>
 <p>
         <ul>
           <li> Une salle contient au moins une étagère, mais aussi peut en contenir plusieurs. Tandis q'une étagère définie ne peut être que dans une seule salle </li>
