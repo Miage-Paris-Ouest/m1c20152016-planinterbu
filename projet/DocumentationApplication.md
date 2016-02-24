@@ -1,4 +1,7 @@
 <h1> Documentation application </h1>
+{h1
+color : red;
+}
 <h2> Lancer une recherche </h2>
 
 <h3> Recherche par discipline </h3>
