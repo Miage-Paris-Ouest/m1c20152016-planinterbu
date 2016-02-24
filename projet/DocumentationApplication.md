@@ -1,8 +1,7 @@
 <h1 align="center"> Documentation application </h1>
-</br>
 <h2> 1. Lancer une recherche </h2>
 </br>
-<h4> Recherche par discipline </h4>
+<h5> Recherche par discipline </h5>
 <p> 
 Pour rechercher un ouvrage ( document, livre) par discipline, l'utilisateur doit :
 
@@ -14,7 +13,7 @@ Le plan qui s'affiche, contient les salles, ainsi que la localisation de la disc
 </p>
  
         
-     <img src="https://github.com/Miage-Paris-Ouest/m1c20152016-planinterbu/blob/master/projet/salles_disciplines.png" />
+     <img src="https://github.com/Miage-Paris-Ouest/m1c20152016-planinterbu/blob/master/projet/salles_disciplines.png" heighth=1000" width ="500" />
         
         
 <h1> Recherche par sous discipline </h1>
