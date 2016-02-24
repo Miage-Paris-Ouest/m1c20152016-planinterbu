@@ -8,10 +8,10 @@ Pour rechercher un ouvrage ( document, livre) par discipline, l'utilisateur doit
 
 Le plan qui s'affiche, contient les salles, ainsi que la localisation de la discipline sélectionnée parmi les salles.
 </p>
- <p>
+ 
         
      <img src="https://github.com/Miage-Paris-Ouest/m1c20152016-planinterbu/blob/master/projet/salles_disciplines.png" />
-        </p>
+        
         
 <h1> Recherche par sous discipline </h1>
 <p> 
