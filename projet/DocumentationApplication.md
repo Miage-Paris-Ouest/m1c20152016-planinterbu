@@ -1,8 +1,8 @@
 <h1 align="center"> Documentation application </h1>
 </br>
-<h2> Lancer une recherche </h2>
+<h2> 1. Lancer une recherche </h2>
 </br>
-<h3> Recherche par discipline </h3>
+<h4> Recherche par discipline </h4>
 <p> 
 Pour rechercher un ouvrage ( document, livre) par discipline, l'utilisateur doit :
 
