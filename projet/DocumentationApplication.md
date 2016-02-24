@@ -1,4 +1,7 @@
-<h1> Recherche par discipline </h1>
+<h1> Documentation application </h1>
+<h2> Lancer une recherche </h2>
+
+<h3> Recherche par discipline </h3>
 <p> 
 Pour rechercher un ouvrage ( document, livre) par discipline, l'utilisateur doit :
 
@@ -42,4 +45,6 @@ Le plan qui s'affiche, contient les étagères où peut se trouver la cote séle
 Un message s'affiche sur la page, et indique les détails de la salle, discipline et sous discipline de la cote sélectionnée
 </p>
 
-        
+  <h2>La base de donnée </h2>
+  Certaines tables sont mises à jour, pour contenir l'url vers l'image où se trouve la discipline, la sous discipline ou la cote.
+  
