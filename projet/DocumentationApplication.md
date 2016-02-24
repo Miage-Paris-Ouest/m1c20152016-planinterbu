@@ -16,7 +16,7 @@ Le plan qui s'affiche, contient les salles, ainsi que la localisation de la disc
      <img src="https://github.com/Miage-Paris-Ouest/m1c20152016-planinterbu/blob/master/projet/salles_disciplines.png" heighth=1000" width ="500" />
         
         
-<h1> Recherche par sous discipline </h1>
+<h5> Recherche par sous discipline </h5>
 <p> 
 Pour rechercher un ouvrage ( document, livre) par sous discipline, l'utilisateur doit :
 
@@ -33,7 +33,7 @@ Un message s'affiche sur la page, et indique les étagères où peut se trouver 
  </p>
  
  
- <h1> Recherche par racine de cote </h1>
+ <h5> Recherche par racine de cote </h5>
 <p> 
 Pour rechercher un ouvrage ( document, livre) par racine de cote, l'utilisateur doit :
 
