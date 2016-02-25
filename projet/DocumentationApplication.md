@@ -13,7 +13,7 @@ Le plan qui s'affiche, contient les salles, ainsi que la localisation de la disc
 </p>
  
         
-     <img src="https://github.com/Miage-Paris-Ouest/m1c20152016-planinterbu/blob/master/projet/salles_disciplines.png" heighth=1000" width ="500" />
+     <img src="https://github.com/Miage-Paris-Ouest/m1c20152016-planinterbu/blob/master/projet/salles_disciplines.png" heighth="1000" width ="500" />
         
         
 <h5> Recherche par sous discipline </h5>
