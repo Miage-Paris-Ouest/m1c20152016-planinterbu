@@ -1,11 +1,6 @@
-<h1 align="center"> Documentation application </h1>
-<h2> 1. Traiter les colonnes de la base de donnée (partie 1 du projet) </h2>
-<p>
-Une première partie du systèmes permet de traiter les informations contenues dans la base de données, et qui sont formulées (presque) en langage naturel ( utilisation de virgules, de mots clés "sauf", "à" pour définir des intervals...). Une bibliothèque spéciale est incluse "poi" pour récupérer les données du fichier excel, les analyser, traiter, puis les insérer dans la base de donnée vers la fin.
-</p>
-<h2> 2. Lancer une recherche (partie 2 du projet)</h2>
+<h1 align="center"> Manuel d'utilisation </h1>
+<h2> 1. Lancer une recherche </h2>
 </br>
-Pour lancer une recherche selon des critères, des requêtes sont mises en place pour extraire les données de la base de donnée traitée dans la partie une.
 <h5> Recherche par discipline </h5>
 <p> 
 Pour rechercher un ouvrage ( document, livre) par discipline, l'utilisateur doit :
@@ -51,5 +46,5 @@ Le plan qui s'affiche, contient les étagères où peut se trouver la cote séle
 Un message s'affiche sur la page, et indique les détails de la salle, discipline et sous discipline de la cote sélectionnée
 </p>
 
-
   
+
