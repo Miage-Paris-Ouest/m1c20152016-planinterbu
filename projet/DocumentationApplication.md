@@ -1,5 +1,5 @@
 <h1 align="center"> Documentation application </h1>
-<h2> 1. Traiter les colonnes de la base de donnée </h2>
+<h2> 1. Traiter les colonnes de la base de donnée (partie 1 du projet) </h2>
 <p>
 Une première partie du systèmes permet de traiter les informations contenues dans la base de données, et qui sont formulées (presque) en langage naturel ( utilisation de virgules, de mots clés "sauf", "à" pour définir des intervals...). Une bibliothèque spéciale est incluse "poi" pour récupérer les données du fichier excel, les analyser, traiter, puis les insérer dans la base de donnée vers la fin.
 </p>
