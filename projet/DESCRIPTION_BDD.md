@@ -13,7 +13,7 @@
     </ul>
   </p>
   <h5>Remarque </h5>
-  Certaines tables sont mises à jour, pour contenir l'url de l'image où se trouve la discipline, la sous discipline ou la cote. les tables concernées par les modifications (ajoute d'une nouvele colonne) sont : Cote, Discipline, SousDiscipline.
+  Certaines tables sont mises à jour, pour contenir l'url de l'image où se trouve la discipline, la sous discipline ou la cote. les tables concernées par les modifications (ajout d'une nouvelle colonne) sont : Cote, Discipline, SousDiscipline.
   
   
 <h4> Conception </h4>
