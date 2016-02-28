@@ -5,7 +5,7 @@ Une première partie du systèmes permet de traiter les informations contenues d
 </p>
 <h2> 2. Lancer une recherche (partie 2 du projet)</h2>
 </br>
-Pour lancer une recherche selon des critères, des reqûtes sont mises en place pour extraire les données de la base de donnée traitée dans la partie une.
+Pour lancer une recherche selon des critères, des requêtes sont mises en place pour extraire les données de la base de donnée traitée dans la partie une.
 <h5> Recherche par discipline </h5>
 <p> 
 Pour rechercher un ouvrage ( document, livre) par discipline, l'utilisateur doit :
