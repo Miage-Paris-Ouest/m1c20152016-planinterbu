@@ -45,6 +45,4 @@ Le plan qui s'affiche, contient les étagères où peut se trouver la cote séle
 Un message s'affiche sur la page, et indique les détails de la salle, discipline et sous discipline de la cote sélectionnée
 </p>
 
-  <h2>2. La base de donnée </h2>
-  Certaines tables sont mises à jour, pour contenir l'url de l'image où se trouve la discipline, la sous discipline ou la cote.
   

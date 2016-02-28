@@ -12,6 +12,9 @@
       <li> Cote : </li> <span> Il faut savoir que chaque cote a une racine. Raison pour laquelle nous avons créé un attribut "racine" dans cette table, qui définit quelle est la racine de la cote concernée </span>
     </ul>
   </p>
+  <h5>Remarque </h5>
+  Certaines tables sont mises à jour, pour contenir l'url de l'image où se trouve la discipline, la sous discipline ou la cote. les tables concernées par les modifications (ajout d'une nouvelle colonne) sont : Cote, Discipline, SousDiscipline.
+  
   
 <h4> Conception </h4>
 
