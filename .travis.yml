@@ -16,7 +16,8 @@ cache:
 
 # Gradlew
 before_install:
- - chmod +x ./gradlew
- 
+  - pip install --user codecov
 script:
-  - ./gradlew clean build
+  - ./gradlew check jacocoTestReport coveralls
+  
+after_success: - codecov
